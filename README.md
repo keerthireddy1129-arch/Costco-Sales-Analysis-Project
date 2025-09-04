@@ -23,9 +23,9 @@ The goal of this project was to analyze Costco’s sales data, clean and transfo
 
 ### 📸 Project Dashboard  
 ![Costco Sales Dashboard](https://github.com/keerthireddy1129-arch/Costco-Sales-Analysis-Project/blob/main/Dashboard1.png)  
+
 ![Costco Sales Dashboard](https://github.com/keerthireddy1129-arch/Costco-Sales-Analysis-Project/blob/main/Dashboard2.png)  
 
-*(Replace `images/costco_dashboard.png` with the actual path to your screenshot inside the repo.)*  
 
 ---
 
